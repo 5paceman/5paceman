@@ -15,7 +15,7 @@
 - :computer: I am currently looking for my first junior role.
 - :world_map: I am currently living in Manchester, England.
 - :technologist: I love starting new projects and learning as I go.
-- :student: I’m currently learning: `Go`.
+- :student: I’m currently learning: `React` and `Express`.
 
 <br>
 
