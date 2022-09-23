@@ -20,8 +20,7 @@
 <br>
 
 ## :key:  Notable Projects
-- [Lottery Website](https://github.com/5paceman/Lotto-Website) Lottery Syndicate website, MongoDB with Express Backend and React Frontend 
-- [RustysHosting](https://github.com/5paceman/RustysHosting) PHP Game Server hosting website, SQL/Redis Backend, Payment Plans, Automatic Game server deployment
+- [RustysHosting](https://github.com/5paceman/RustysHosting) PHP Game Server hosting website, SQL/Redis Backend, Payment Plans, Automatic Game server deployment and management via job queue
 - [Delta](https://github.com/5paceman/Delta) C++ Cheat for Rust, DirectX overlay and memory manipulation
 - [HoneyPot](https://github.com/5paceman/HoneyPot) C++ DLL Injector, Support for Manual Mapping.
 
