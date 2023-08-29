@@ -13,7 +13,6 @@
 
 ## :sassy_man:  About me
 - :computer: I am currently looking for my first junior role.
-- :world_map: I am currently living in Manchester, England.
 - :technologist: I love starting new projects and learning as I go.
 - :student: I’m currently learning: `C++` and `x86`.
 - :memo: [My blog](https://5paceman.dev) where I talk about problems I've solved both in programming and IT Infrastructure
