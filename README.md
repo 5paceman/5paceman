@@ -12,7 +12,6 @@
 
 
 ## :sassy_man:  About me
-- :technologist: I love learning new technology, especially programming languages.
 - :student: I’m currently learning: `Flutter` and `AI Prompting`.
 <br>
 
