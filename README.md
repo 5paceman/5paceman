@@ -12,8 +12,7 @@
 
 
 ## :sassy_man:  About me
-- :computer: I am currently looking for my first junior role.
-- :technologist: I love starting new projects and learning as I go.
+- :technologist: I love starting new projects and learning as I explore.
 - :student: I’m currently learning: `Flutter` and `AI Prompting`.
 <br>
 
