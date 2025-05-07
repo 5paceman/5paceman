@@ -14,8 +14,7 @@
 ## :sassy_man:  About me
 - :computer: I am currently looking for my first junior role.
 - :technologist: I love starting new projects and learning as I go.
-- :student: I’m currently learning: `C++` and `x86`.
-- :memo: [My blog](https://5paceman.dev) where I talk about problems I've solved both in programming and IT Infrastructure
+- :student: I’m currently learning: `Flutter` and `AI Prompting`.
 <br>
 
 ## :key:  Notable Projects
@@ -23,9 +22,6 @@
 - [Delta](https://github.com/5paceman/Delta) C++ Cheat for Rust, DirectX overlay and memory manipulation
 - [HoneyPot](https://github.com/5paceman/HoneyPot) C++ DLL Injector, Support for Manual Mapping.
 
-## :grey_question: Why Software
-
-I've always loved the endless possiblities with being able to code. From making a script in python to help with an automated task to being able to tweak and change a game I enjoy playing. I love the creativity behind it, the endless opportunity to learn and the ability to create something out of nothing. Software Engineering has been a passion for me since the age of 11 and whether professionally or not I'll be coding for years to come. 
 
 <br>
 
