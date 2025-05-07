@@ -27,8 +27,6 @@
 <br>
 
 ## 📊 Stats
-<p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=5paceman&theme=algolia&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a></p>
-
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=5paceman&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="5paceman" height="192px"/></p>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
