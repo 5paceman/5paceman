@@ -20,6 +20,9 @@
 - [RustysHosting](https://github.com/5paceman/RustysHosting) PHP Game Server hosting website, SQL/Redis Backend, Payment Plans, Automatic Game server deployment and management via job queue
 - [Delta](https://github.com/5paceman/Delta) C++ Cheat for Rust, DirectX overlay and memory manipulation
 - [HoneyPot](https://github.com/5paceman/HoneyPot) C++ DLL Injector, Support for Manual Mapping.
+- [nightshade](https://github.com/5paceman/nightshade) C++ Game/Memory Hacking library for both internal and external tools, used by HoneyPot.
+- [BoostMeNot](https://github.com/5paceman/BoostMeNot) LUA WoW Addon using heuristical analysis to block spam in chat.
+- [JackpotUnion](https://github.com/5paceman/JackpotUnion) A Syndicate lottery website to centralise lottery [syndicate](https://www.national-lottery.co.uk/games/syndicates) management. 
 
 
 <br>
